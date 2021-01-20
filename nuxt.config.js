@@ -3,11 +3,11 @@ export default {
     generate: {
         fallback: true
     },
-    
+
     // Global page headers (https://go.nuxtjs.dev/config-head)
     head: {
-        title: 'Exomac',
-        titleTemplate: '%s || Exomac',
+        title: 'Thome Legacy Enterprises',
+        titleTemplate: '%s || Thome Legacy Enterprises',
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -16,7 +16,7 @@ export default {
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         ],
-        
+
     },
 
     // Global CSS (https://go.nuxtjs.dev/config-css)
@@ -31,12 +31,12 @@ export default {
         '~/plugins/vuejs-paginate.js',
         '~/plugins/Mixitup.client.js',
         {
-            src: "~/plugins/aos", 
-            ssr: false 
+            src: "~/plugins/aos",
+            ssr: false
         },
-        { 
-            src: "~/plugins/typed.js", 
-            ssr: true 
+        {
+            src: "~/plugins/typed.js",
+            ssr: true
         }
     ],
 

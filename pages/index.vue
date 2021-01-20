@@ -47,7 +47,7 @@
 
         head() {
             return {
-                title: 'Corporate Business'
+                title: 'Services with Integrity'
             }
         },
     };

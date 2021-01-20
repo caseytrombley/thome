@@ -1,7 +1,7 @@
 {
-    "name": "Exomac",
+    "name": "thome-web",
     "version": "1.0.0",
-    "author": "uzzal",
+    "author": "caseytrombley",
     "private": true,
     "scripts": {
         "dev": "nuxt",
