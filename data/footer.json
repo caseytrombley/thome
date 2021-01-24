@@ -1,8 +1,8 @@
 {
     "footerAboutWidget": {
         "logoSrc": "/images/logo/footer-logo.png",
-        "telephone": "(+1) 212-946-2701",
-        "email": "hello@hasagency.com",
+        "telephone": "(+1) 978-620-7091",
+        "email": "thomelegacy@icloud.com",
         "fbUrl": "https://www.facebook.com/",
         "twitterUrl": "https://twitter.com/",
         "instagramUrl": "https://www.instagram.com/"
@@ -11,76 +11,76 @@
     "navListOne": [
         {
             "navTitle": "Marketing",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "SEO/SEM",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Development",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "UX Design",
-            "navUrl": "/" 
+            "navUrl": "/"
         }
     ],
     "footerLinkTitleTwo": "Products",
     "navListTwo": [
         {
             "navTitle": "Elementor Guru",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "WooLentor Pro",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Plugins",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Page Builder",
-            "navUrl": "/" 
+            "navUrl": "/"
         }
     ],
     "footerLinkTitleThree": "About",
     "navListThree": [
         {
             "navTitle": "Features",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Our Partners",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Affiliate Program",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Pricing",
-            "navUrl": "/" 
+            "navUrl": "/"
         }
     ],
     "footerLinkTitleFour": "Contact",
     "navListFour": [
         {
             "navTitle": "Support Ticket",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Help Desk",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "Live Chat",
-            "navUrl": "/" 
+            "navUrl": "/"
         },
         {
             "navTitle": "FAQs",
-            "navUrl": "/" 
+            "navUrl": "/"
         }
     ]
 }

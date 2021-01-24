@@ -4,7 +4,7 @@
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
                 <h2 class="title fz-34">Let's talk about your project and see how we can work together</h2>
-                <p class="sub-title">Our team of designers, developers and creatives are perfectionists who love what they do and love where they work</p>
+                <p class="sub-title">Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect. where they work</p>
             </div>
             <!-- Section Title End -->
             <n-link to="/contact-us" class="btn btn-primary btn-hover-secondary">Contact Us</n-link>

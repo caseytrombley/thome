@@ -3,10 +3,10 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title">We are a full-service creative agency</h2>
-                <p class="sub-title">Our team of designers, developers and creatives are perfectionists who love what they do and love</p>
+                <h2 class="title">We are a cost-effective care and transportation services provider</h2>
+                <p class="sub-title">Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect.</p>
             </div>
-            
+
             <!-- Section Title End -->
 
             <!-- About Wrapper Start -->

@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container shape-animate">
             <!-- Section Title Start -->
-            <SectionTitle title="We are a full-service creative agency" sub-title="Our team of designers, developers and creatives are perfectionists who love what they do and love where they work" add-class-name="mb-30" />
+            <SectionTitle title="We are a cost-effective care and transportation services provider" sub-title="Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect. where they work" add-class-name="mb-30" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
@@ -25,7 +25,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> (+1) 212-946-2701 <br> (+1) 212-946-2702</span>
+                            <span class="info-text"> (+1) 978-620-7091 <br> (+1) 212-946-2702</span>
                         </div>
                     </div>
                 </div>

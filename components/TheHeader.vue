@@ -1,15 +1,14 @@
 <template>
-    <div class="header-section header-transparent" :class="{'is-sticky': isSticky}">
+    <div class="header-section" :class="{'is-sticky': isSticky}">
         <div class="header-inner">
             <div class="container position-relative">
                 <div class="row justify-content-between align-items-center">
 
                     <!-- Header Logo Start -->
-                    <div class="col-xl-2 col-auto order-0">
+                    <div class="col-xl-3 col-auto order-0">
                         <div class="header-logo">
                             <n-link to="/">
-                                <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
-                                <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">
+                              <svg-logo class="svg-logo" />
                             </n-link>
                         </div>
                     </div>
@@ -43,12 +42,6 @@
                         <!-- Header Mobile Menu Toggle End -->
                     </div>
                     <!-- Header Main Menu End -->
-
-                    <!-- Header Right Start -->
-                    <div class="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
-                        <n-link to="/" class="btn btn-light btn-hover-primary">Buy Now</n-link>
-                    </div>
-                    <!-- Header Right End -->
 
                 </div>
             </div>
@@ -90,7 +83,7 @@
                 }
             },
 
-            //offcanvas search 
+            //offcanvas search
             toggleClass(addRemoveClass, className) {
                 const el = document.querySelector('#search-popup');
                 if (addRemoveClass === 'addClass') {
@@ -102,3 +95,8 @@
         },
     };
 </script>
+<style lang="scss" scoped>
+  .svg-logo {
+    height: 70px;
+  }
+</style>

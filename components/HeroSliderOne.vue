@@ -48,14 +48,14 @@
                 sliderData: [
                     {
                         id: 1,
-                        heading: "Designing awesome brands & experiences",
-                        text: "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+                        heading: "Services with Integrity",
+                        text: "We specialize in providing non-emergency transportation and ride services for those with accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-1.jpg"
                     },
                     {
                         id: 2,
-                        heading: "Designing awesome brands & experiences",
-                        text: "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+                        heading: "Services with Integrity",
+                        text: "We specialize in providing non-emergency transportation and ride services for those with accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-2.jpg"
                     }
                 ]

@@ -31,7 +31,7 @@
                             </div>
                             <div class="info">
                                 <h4 class="title">Give Us A Call</h4>
-                                <span class="info-text"> (+1) 212-946-2701 / (+1) 212-946-2702</span>
+                                <span class="info-text"> (+1) 978-620-7091 / (+1) 212-946-2702</span>
                             </div>
                         </div>
                         <!-- Contact Info Item End -->
@@ -79,7 +79,7 @@
                                 </div>
                             </div>
                         </form>
-                        
+
                         <!-- Animation Shape Start -->
                         <ShapeWithAnimation addClassName="shape-1" data-depth="1" imgSrc="/images/shape-animation/contact-shape.png" />
                     </div>
