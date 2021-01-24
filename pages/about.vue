@@ -3,21 +3,21 @@
 
         <TheHeader />
 
-        <OffCanvasMobileMenu />
+<!--        <OffCanvasMobileMenu />-->
 
-        <SearchPopup />
+<!--        <SearchPopup />-->
 
         <BreadcrumbOne :items="items" title="We are here to help" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
 
-        <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
+<!--        <AboutTwo class="section-padding-top about-section-padding-bottom-200" />-->
 
-        <CallToActionVideo />
+<!--        <CallToActionVideo />-->
 
-        <AboutFour />
+<!--        <AboutFour />-->
 
-        <TestimonialSectionOne :style="{backgroundColor: '#f8faff'}" />
+<!--        <TestimonialSectionOne :style="{backgroundColor: '#f8faff'}" />-->
 
-        <CallToActionThree />
+<!--        <CallToActionThree />-->
 
         <TheFooter />
 
