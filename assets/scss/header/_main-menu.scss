@@ -21,7 +21,6 @@
                 line-height: 1.375;
                 display: block;
                 padding: 40px 15px;
-                color: $white;
 
                 & .menu-text {
                     display: flex;
@@ -242,7 +241,7 @@
         & .sub-menu {
             border-bottom: 4px solid $primary-three;
             & li {
-    
+
                 &:hover,
                 &.active {
                     & > a {

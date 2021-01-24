@@ -97,6 +97,24 @@
 </script>
 <style lang="scss" scoped>
   .svg-logo {
-    height: 70px;
+      height: 70px;
+  }
+
+  .header-section {
+      &.is-sticky {
+          .svg-logo {
+              fill: $thome-blue;
+
+              path {
+                fill: $thome-blue;
+              }
+          }
+
+          ::v-deep {
+              .link {
+                color: white;
+              }
+          }
+      }
   }
 </style>
