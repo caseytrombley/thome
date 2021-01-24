@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container shape-animate">
             <!-- Section Title Start -->
-            <SectionTitle title="We are a cost-effective care and transportation services provider" sub-title="Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect. where they work" add-class-name="mb-30" />
+            <SectionTitle title="We provide a range of transportation and care services" sub-title="Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect. where they work" add-class-name="mb-30" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
@@ -12,8 +12,9 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Our Locations</h4>
-                            <span class="info-text"> 110 W 34th St, NYC. <br> 67 Madison Avenue.</span>
+                            <h4 class="title">Our Location</h4>
+                            <span class="info-text">
+                              85 Swanson Rd <br> Suite 320 C <br> Boxborough MA, 01719</span>
                         </div>
                     </div>
                 </div>
@@ -25,7 +26,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> (+1) 978-620-7091 <br> (+1) 212-946-2702</span>
+                            <span class="info-text"> (+1) 978-620-7091 </span>
                         </div>
                     </div>
                 </div>
@@ -36,11 +37,9 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-mail-open-text.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Help Desk</h4>
+                            <h4 class="title">Email Us</h4>
                             <span class="info-text">
-                                <a href="mailto:hello@hasthemes.com">hello@hasthemes.com</a>
-                                <br>
-                                <a href="mailto:sales@hasthemes.com">sales@hasthemes.com</a>
+                                <a href="mailto:thomelegacy@icloud.com">thomelegacy@icloud.com</a>
                             </span>
                         </div>
                     </div>

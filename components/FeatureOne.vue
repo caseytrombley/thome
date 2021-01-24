@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container">
             <!-- Section Title Start -->
-            <SectionTitle title="We create a unique action plan for brands" sub-title="Get your company heading in the right direction with our digital marketing strategist" add-class-name="mb-60" />
+            <SectionTitle title="We provide a range of community services" sub-title="Start heading in the right direction with our dedicated staff of trained professionals" add-class-name="mb-60" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
@@ -38,22 +38,16 @@
                 features: [
                     {
                         id: 1,
-                        title: "Branding",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-                        iconSrc: "/images/svg/linea/linea-basic-target.svg"
+                        title: "Transportation",
+                        text: "We provide safe, reliable, efficient, and cost-effective transit, Para-transit, and non-emergency rides for healthcare appointments",
+                        iconSrc: "/images/svg/van.svg"
                     },
                     {
                         id: 2,
-                        title: "UX Design",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-                        iconSrc: "/images/svg/linea/linea-basic-picture-multiple.svg"
+                        title: "Assisted Living",
+                        text: "Services provided include homemaking, chore, personal care, meals, and other supports.",
+                        iconSrc: "/images/svg/charity.svg"
                     },
-                    {
-                        id: 3,
-                        title: "Strategy",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-                        iconSrc: "/images/svg/linea/linea-basic-picture.svg"
-                    }
                 ]
             }
         },

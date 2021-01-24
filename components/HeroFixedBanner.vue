@@ -14,7 +14,7 @@
                                 <h2 class="title">Expand Your Business <span class="typing"></span></h2>
                             </vue-typed-js>
                             <div class="desc">
-                                <p>We specialize in providing non-emergency transportation and ride services for those with accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.</p>
+                                <p>We specialize in providing non-emergency transportation and care services for those with health or accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.</p>
                             </div>
                             <n-link to="/about" class="btn btn-primary btn-hover-secondary">Get Started</n-link>
                             <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Learn More</n-link>

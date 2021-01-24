@@ -4,13 +4,13 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="newsletter-content">
-                        <SectionTitle title="Let’s find out how to work together" sub-title="Ready to start your project? The contact information collected through this form will only be used to send a response to your inquiry." add-class-name="color-light" />
+                        <SectionTitle title="Let’s get in touch" sub-title="The contact information collected through this form will only be used to send information and updates about our services." add-class-name="color-light" />
 
                         <!-- Newsletter Form Start -->
                         <div class="newsletter-form">
                             <form>
-                                <input type="email" placeholder="Ente your email" name="mail">
-                                <button class="btn btn-primary btn-hover-secondary">Subscribe</button>
+                                <input type="email" placeholder="Enter your email" name="mail">
+                                <button class="btn btn-primary btn-hover-secondary">Submit</button>
                             </form>
                         </div>
                         <!-- Newsletter Form End -->

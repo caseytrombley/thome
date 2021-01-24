@@ -13,11 +13,11 @@
 
         <FeatureOne :style="{backgroundColor: '#f8faff'}" />
 
-        <SuccessStory />
+<!--        <SuccessStory />-->
 
-        <PortfolioGallery />
+<!--        <PortfolioGallery />-->
 
-        <BlogSectionOne />
+<!--        <BlogSectionOne />-->
 
         <Newsletter />
 
@@ -37,9 +37,9 @@
             HeroSliderOne: () => import('@/components/HeroSliderOne'),
             AboutOne: () => import('@/components/AboutOne'),
             FeatureOne: () => import('@/components/FeatureOne'),
-            SuccessStory: () => import('@/components/SuccessStory'),
-            PortfolioGallery: () => import('@/components/PortfolioGallery'),
-            BlogSectionOne: () => import('@/components/BlogSectionOne'),
+            // SuccessStory: () => import('@/components/SuccessStory'),
+            // PortfolioGallery: () => import('@/components/PortfolioGallery'),
+            // BlogSectionOne: () => import('@/components/BlogSectionOne'),
             Newsletter: () => import('@/components/Newsletter'),
             CallToActionOne: () => import('@/components/CallToActionOne'),
             TheFooter: () => import('@/components/TheFooter'),

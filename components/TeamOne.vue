@@ -4,7 +4,7 @@
             <!-- Section Title Start -->
             <div class="section-title text-center mb-60" data-aos="fade-up">
                 <h2 class="title">People behind the screen</h2>
-                <p class="sub-title">Get your company heading in the right direction with our digital marketing strategist</p>
+                <p class="sub-title">Start heading in the right direction with our dedicated staff of trained professionals</p>
             </div>
             <!-- Section Title End -->
 

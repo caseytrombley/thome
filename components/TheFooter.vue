@@ -33,65 +33,65 @@
                 </div>
                 <!-- Footer Widget End -->
 
-                <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6 mt-30">
-                    <div class="footer-widget">
-                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleOne }}</h4>
-                        <div class="footer-widget-content">
-                            <ul>
-                                <li v-for="(nav, index) in footerData.navListOne" :key="index">
-                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- Footer Widget End -->
+<!--                &lt;!&ndash; Footer Widget Start &ndash;&gt;-->
+<!--                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6 mt-30">-->
+<!--                    <div class="footer-widget">-->
+<!--                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleOne }}</h4>-->
+<!--                        <div class="footer-widget-content">-->
+<!--                            <ul>-->
+<!--                                <li v-for="(nav, index) in footerData.navListOne" :key="index">-->
+<!--                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; Footer Widget End &ndash;&gt;-->
 
-                <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
-                    <div class="footer-widget">
-                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleTwo }}</h4>
-                        <div class="footer-widget-content">
-                            <ul>
-                                <li v-for="(nav, index) in footerData.navListTwo" :key="index">
-                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- Footer Widget End -->
+<!--                &lt;!&ndash; Footer Widget Start &ndash;&gt;-->
+<!--                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">-->
+<!--                    <div class="footer-widget">-->
+<!--                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleTwo }}</h4>-->
+<!--                        <div class="footer-widget-content">-->
+<!--                            <ul>-->
+<!--                                <li v-for="(nav, index) in footerData.navListTwo" :key="index">-->
+<!--                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; Footer Widget End &ndash;&gt;-->
 
-                <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
-                    <div class="footer-widget">
-                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleThree }}</h4>
-                        <div class="footer-widget-content">
-                            <ul>
-                                <li v-for="(nav, index) in footerData.navListThree" :key="index">
-                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- Footer Widget End -->
+<!--                &lt;!&ndash; Footer Widget Start &ndash;&gt;-->
+<!--                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">-->
+<!--                    <div class="footer-widget">-->
+<!--                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleThree }}</h4>-->
+<!--                        <div class="footer-widget-content">-->
+<!--                            <ul>-->
+<!--                                <li v-for="(nav, index) in footerData.navListThree" :key="index">-->
+<!--                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; Footer Widget End &ndash;&gt;-->
 
-                <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
-                    <div class="footer-widget">
-                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleFour }}</h4>
-                        <div class="footer-widget-content">
-                            <ul>
-                                <li v-for="(nav, index) in footerData.navListFour" :key="index">
-                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- Footer Widget End -->
+<!--                &lt;!&ndash; Footer Widget Start &ndash;&gt;-->
+<!--                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">-->
+<!--                    <div class="footer-widget">-->
+<!--                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleFour }}</h4>-->
+<!--                        <div class="footer-widget-content">-->
+<!--                            <ul>-->
+<!--                                <li v-for="(nav, index) in footerData.navListFour" :key="index">-->
+<!--                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                &lt;!&ndash; Footer Widget End &ndash;&gt;-->
             </div>
             <!-- Footer Top Widgets End -->
 

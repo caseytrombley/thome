@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title">We are a cost-effective care and transportation services provider</h2>
+                <h2 class="title">We provide a range of transportation and care services</h2>
                 <p class="sub-title">Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect.</p>
             </div>
 
@@ -34,11 +34,11 @@
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
                             <span class="sub-title">Every day brings new challenges</span>
-                            <h3 class="title">Creative agency focused on vision, product and people</h3>
+                            <h3 class="title">We provide a range of services under the MFP Waiver Program</h3>
                         </div>
                         <!-- Section Title Two End -->
 
-                        <p>We’re boldly individual, always original and refreshingly easy-going. Our vision, passion and ideas are matched with focus, expertise and flair.</p>
+                        <p>We’re boldly committed, and refreshingly easy-going. Our passion for helping others is matched by our dedication to a customer-first approach.</p>
                         <n-link to="/about" class="btn btn-primary btn-hover-secondary mt-4">About Us</n-link>
                     </div>
                 </div>

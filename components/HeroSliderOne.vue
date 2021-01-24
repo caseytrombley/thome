@@ -49,13 +49,13 @@
                     {
                         id: 1,
                         heading: "Services with Integrity",
-                        text: "We specialize in providing non-emergency transportation and ride services for those with accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
+                        text: "We specialize in providing non-emergency transportation and care services for those with health or accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-1.jpg"
                     },
                     {
                         id: 2,
                         heading: "Services with Integrity",
-                        text: "We specialize in providing non-emergency transportation and ride services for those with accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
+                        text: "We specialize in providing non-emergency transportation and care services for those with health or accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-2.jpg"
                     }
                 ]
