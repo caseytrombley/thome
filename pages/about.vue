@@ -7,7 +7,7 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We are an agency located in New York" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <BreadcrumbOne :items="items" title="We are here to help" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
 
         <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
 
