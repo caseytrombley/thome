@@ -25,15 +25,15 @@
                         <!-- Contact Info Item End -->
 
                         <!-- Contact Info Item Start -->
-                        <div class="contact-info info-light" data-vivus-hover>
-                            <div class="icon">
-                                <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="">
-                            </div>
-                            <div class="info">
-                                <h4 class="title">Give Us A Call</h4>
-                                <span class="info-text"> (+1) 978-620-7091</span>
-                            </div>
-                        </div>
+<!--                        <div class="contact-info info-light" data-vivus-hover>-->
+<!--                            <div class="icon">-->
+<!--                                <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="">-->
+<!--                            </div>-->
+<!--                            <div class="info">-->
+<!--                                <h4 class="title">Give Us A Call</h4>-->
+<!--                                <span class="info-text"> (+1) 978-620-7091</span>-->
+<!--                            </div>-->
+<!--                        </div>-->
                         <!-- Contact Info Item End -->
 
                         <!-- Contact Info Item Start -->

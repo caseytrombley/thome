@@ -19,17 +19,17 @@
                     </div>
                 </div>
 
-                <div class="col mt-30" data-aos="fade-up">
-                    <div class="contact-info" data-vivus-hover>
-                        <div class="icon">
-                            <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="Icon">
-                        </div>
-                        <div class="info">
-                            <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> (+1) 978-620-7091 </span>
-                        </div>
-                    </div>
-                </div>
+<!--                <div class="col mt-30" data-aos="fade-up">-->
+<!--                    <div class="contact-info" data-vivus-hover>-->
+<!--                        <div class="icon">-->
+<!--                            <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="Icon">-->
+<!--                        </div>-->
+<!--                        <div class="info">-->
+<!--                            <h4 class="title">Give Us A Call</h4>-->
+<!--                            <span class="info-text"> (+1) 978-620-7091 </span>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <div class="col mt-30" data-aos="fade-up">
                     <div class="contact-info" data-vivus-hover>
