@@ -2,7 +2,7 @@
 
 .page-title-section {
     position: relative;
-    height: 530px;
+    height: 300px;
     display: flex;
     align-items: center;
     z-index: 9;
@@ -10,22 +10,24 @@
     justify-content: center;
     // Responsive
     @media #{$laptop-device}{
-        height: 400px;
+        height: 240px;
     }
     @media #{$desktop-device}{
-        height: 400px;
+        height: 240px;
     }
     @media #{$tablet-device}{
-        height: 400px;
+        height: 240px;
     }
     @media #{$large-mobile}{
-        height: 350px;
+        height: 180px;
     }
 }
 
 .page-title {
     & .title {
-        font-size: 28px;
+        font-size: 32px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
         line-height: 1.2;
         color: $white;
         margin: 0;

@@ -21,10 +21,10 @@
             </swiper-slide>
         </swiper>
         <!-- pagination class -->
-        <div class="home-slider-prev swiper-button-prev main-slider-nav">
+        <div v-if="sliderData.length > 1" class="home-slider-prev swiper-button-prev main-slider-nav">
             <i class="fal fa-angle-left"></i>
         </div>
-        <div class="home-slider-next swiper-button-next main-slider-nav">
+        <div v-if="sliderData.length > 1" class="home-slider-next swiper-button-next main-slider-nav">
             <i class="fal fa-angle-right"></i>
         </div>
     </div>
@@ -52,12 +52,12 @@
                         text: "Thome Legacy Enterprise LLC is a transportation company that specializes in non-Emergency medical transportation service, Leisure transportation and social engagement transportations. We also offer small package and parcel delivery and transport medical supplies.  We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-1.jpg"
                     },
-                    {
-                        id: 2,
-                        heading: "Services with Integrity",
-                        text: "Thome Legacy Enterprise LLC is a transportation company that specializes in non-Emergency medical transportation service, Leisure transportation and social engagement transportations. We also offer small package and parcel delivery and transport medical supplies.  We transport and care for those that require wheelchairs or any other mobility assistance.",
-                        bgImgSrc: "/images/hero-image/hero-2.jpg"
-                    }
+                    // {
+                    //     id: 2,
+                    //     heading: "Services with Integrity",
+                    //     text: "Thome Legacy Enterprise LLC is a transportation company that specializes in non-Emergency medical transportation service, Leisure transportation and social engagement transportations. We also offer small package and parcel delivery and transport medical supplies.  We transport and care for those that require wheelchairs or any other mobility assistance.",
+                    //     bgImgSrc: "/images/hero-image/hero-2.jpg"
+                    // }
                 ]
             }
         },

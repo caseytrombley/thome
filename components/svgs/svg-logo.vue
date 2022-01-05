@@ -96,7 +96,11 @@ export default {
 
 <style lang="scss" scoped>
 .svg {
-  height: 60px;
+  height: 50px;
+
+  @media #{$desktop-device}{
+    height: 60px;
+  }
 }
 
 .light {

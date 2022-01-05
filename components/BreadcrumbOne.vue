@@ -5,11 +5,11 @@
                 <h1 class="title">{{ title }}</h1>
             </div>
         </div>
-        <div class="page-breadcrumb position-static">
-            <div class="container">
-                <b-breadcrumb class="page-breadcrumb" :items="items"></b-breadcrumb>
-            </div>
-        </div>
+<!--        <div class="page-breadcrumb position-static">-->
+<!--            <div class="container">-->
+<!--                <b-breadcrumb class="page-breadcrumb" :items="items"></b-breadcrumb>-->
+<!--            </div>-->
+<!--        </div>-->
     </div>
 </template>
 

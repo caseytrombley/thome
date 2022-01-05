@@ -7,7 +7,7 @@
 
 <!--        <SearchPopup />-->
 
-        <BreadcrumbOne :items="items" title="We are here to help" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <BreadcrumbOne :items="items" title="About Us" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
 
         <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
 

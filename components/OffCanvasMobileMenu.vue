@@ -5,7 +5,7 @@
             <div class="mobile-header">
                 <div class="logo">
                     <n-link to="/">
-                        <img src="/images/logo/logo.png" alt="site logo">
+                      <svg-logo class="svg-logo" light />
                     </n-link>
                 </div>
                 <button class="mobile-close-btn" @click="mobiletoggleClass('removeClass', 'show-mobile-menu')"></button>
@@ -22,7 +22,7 @@
         components: {
             MobileNavigation: () => import('@/components/MobileNavigation'),
         },
-        
+
         methods: {
             // offcanvas menu close
             mobiletoggleClass(addRemoveClass, className) {
