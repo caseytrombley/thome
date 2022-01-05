@@ -11,7 +11,7 @@
 
         <AboutOne />
 
-        <FeatureOne :style="{backgroundColor: '#f8faff'}" />
+<!--        <FeatureOne :style="{backgroundColor: '#f8faff'}" />-->
 
 <!--        <SuccessStory />-->
 
@@ -19,7 +19,7 @@
 
 <!--        <BlogSectionOne />-->
 
-        <Newsletter />
+<!--        <Newsletter />-->
 
         <CallToActionOne />
 

@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title">We provide a range of transportation and care services</h2>
+                <h2 class="title">We provide a range of transportation services</h2>
                 <p class="sub-title">Our team of professionals truly care for our customers, our neighbors, our friends, and our family. We are proud to serve our community with the highest sense of dignity and respect.</p>
             </div>
 
@@ -15,10 +15,10 @@
                 <div class="col-xl-7 col-lg-6" data-aos="fade-up">
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/agency_about_1.jpg" alt="images">
+                            <img src="/images/about/agency_about_1.jpg" alt="image by Thibault Penin https://thibaultpenin.com/">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/agency_about_2.jpg" alt="images">
+                            <img src="/images/about/agency_about_2.jpg" alt="image by Chris Benson https://www.instagram.com/3inthevm/">
                         </div>
 
                         <!-- Animation Shape Start -->

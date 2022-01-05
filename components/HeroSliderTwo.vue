@@ -49,13 +49,13 @@
                     {
                         id: 1,
                         heading: "Services with Integrity",
-                        text: "We specialize in providing non-emergency transportation and care services for those with health or accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
+                        text: "Thome Legacy Enterprise LLC is a transportation company that specializes in non-Emergency medical transportation service, Leisure transportation and social engagement transportations. We also offer small package and parcel delivery and transport medical supplies.  We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-3.jpg"
                     },
                     {
                         id: 2,
                         heading: "Services with Integrity",
-                        text: "We specialize in providing non-emergency transportation and care services for those with health or accessibility needs. We transport and care for those that require wheelchairs or any other mobility assistance.",
+                        text: "Thome Legacy Enterprise LLC is a transportation company that specializes in non-Emergency medical transportation service, Leisure transportation and social engagement transportations. We also offer small package and parcel delivery and transport medical supplies.  We transport and care for those that require wheelchairs or any other mobility assistance.",
                         bgImgSrc: "/images/hero-image/hero-4.jpg"
                     }
                 ]
