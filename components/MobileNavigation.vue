@@ -54,9 +54,9 @@
 <!--                    </ul>-->
 <!--                </li>-->
 
-<!--                <li>-->
-<!--                    <n-link to="/contact-us">Contact Us</n-link>-->
-<!--                </li>-->
+                <li>
+                    <n-link to="/contact-us">Contact Us</n-link>
+                </li>
             </ul>
         </nav>
     </div>
