@@ -17,17 +17,17 @@
 <!--                                <p><a href="tel:(+1)978-620-7091">{{ footerData.footerAboutWidget.telephone }}</a></p>-->
                                 <p><a href="mailto:thomelegacy@icloud.com">{{ footerData.footerAboutWidget.email }}</a></p>
                             </div>
-                            <div class="footer-social-inline">
-                                <a :href="footerData.footerAboutWidget.twitterUrl" target="_blank">
-                                    <i class="fab fa-twitter-square"></i>
-                                </a>
-                                <a :href="footerData.footerAboutWidget.fbUrl" target="_blank">
-                                    <i class="fab fa-facebook-square"></i>
-                                </a>
-                                <a :href="footerData.footerAboutWidget.instagramUrl" target="_blank">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                            </div>
+<!--                            <div class="footer-social-inline">-->
+<!--                                <a :href="footerData.footerAboutWidget.twitterUrl" target="_blank">-->
+<!--                                    <i class="fab fa-twitter-square"></i>-->
+<!--                                </a>-->
+<!--                                <a :href="footerData.footerAboutWidget.fbUrl" target="_blank">-->
+<!--                                    <i class="fab fa-facebook-square"></i>-->
+<!--                                </a>-->
+<!--                                <a :href="footerData.footerAboutWidget.instagramUrl" target="_blank">-->
+<!--                                    <i class="fab fa-instagram"></i>-->
+<!--                                </a>-->
+<!--                            </div>-->
                         </div>
                     </div>
                 </div>
