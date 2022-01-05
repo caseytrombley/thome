@@ -5,10 +5,10 @@
                 <div class="col-xl-7 col-lg-6 col-12" data-aos="fade-up">
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-3.jpg" alt="image">
+                            <img src="/images/about/about-1.jpg" alt="image">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-2.jpg" alt="image">
+                            <img src="/images/about/about-12.jpg" alt="image">
                         </div>
 
                         <!-- Animation Shape Start -->

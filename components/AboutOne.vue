@@ -15,10 +15,10 @@
                 <div class="col-xl-7 col-lg-6" data-aos="fade-up">
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/agency_about_1.jpg" alt="image by Thibault Penin https://thibaultpenin.com/">
+                            <img src="/images/about/about-7.jpg" alt="image">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/agency_about_2.jpg" alt="image by Chris Benson https://www.instagram.com/3inthevm/">
+                            <img src="/images/about/about-8.jpg" alt="image">
                         </div>
 
                         <!-- Animation Shape Start -->

@@ -52,7 +52,7 @@
                 <div class="col-lg-6" data-aos="fade-up">
                     <div class="about-image-area about-two about-shape-animation right-0 mr-0">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-1.jpg" alt="image">
+                            <img src="/images/about/about-13.jpg" alt="image">
                         </div>
                         <div class="about-image js-tilt">
                             <img src="/images/about/about-4.jpg" alt="image">
