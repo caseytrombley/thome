@@ -47,7 +47,7 @@
                         to: "/"
                     },
                     {
-                        text: 'Service',
+                        text: 'Capabilities',
                         active: true
                     }
                 ]
@@ -56,7 +56,7 @@
 
         head() {
             return {
-                title: 'Service'
+                title: 'Capabilities'
             }
         },
     };
