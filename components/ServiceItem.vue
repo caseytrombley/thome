@@ -8,7 +8,7 @@
             <div class="desc">
                 <p>{{ service.text }}</p>
             </div>
-            <n-link to="/project-details" class="link">Learn More</n-link>
+<!--            <n-link to="/project-details" class="link">Learn More</n-link>-->
         </div>
     </div>
 </template>
@@ -18,3 +18,10 @@
         props: ['service', 'addClassName']
     };
 </script>
+<style lang="scss" scoped>
+
+.svgInject {
+  width: 64px;
+  height: 64px;
+}
+</style>

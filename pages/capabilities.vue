@@ -3,21 +3,14 @@
 
         <TheHeader />
 
-<!--        <OffCanvasMobileMenu />-->
+        <OffCanvasMobileMenu />
 
-<!--        <SearchPopup />-->
+        <BreadcrumbOne :items="items" title="Capabilities Statement" backgroundUrl= "/images/bg/breadcrumb-bg-three.jpg" />
 
-        <BreadcrumbOne :items="items" title="About" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <ServiceWrapper />
 
-        <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
 
-<!--        <CallToActionVideo />-->
-
-        <AboutFour />
-
-<!--        <TestimonialSectionOne :style="{backgroundColor: '#f8faff'}" />-->
-
-<!--        <CallToActionThree />-->
+<!--        <FunfactWithTitle />-->
 
         <TheFooter />
 
@@ -31,11 +24,11 @@
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
-            AboutTwo: () => import('@/components/AboutTwo'),
-            CallToActionVideo: () => import('@/components/CallToActionVideo'),
+            ServiceWrapper: () => import('@/components/ServiceWrapper'),
+            SuccessStory: () => import('@/components/SuccessStory'),
             AboutFour: () => import('@/components/AboutFour'),
-            TestimonialSectionOne: () => import('@/components/TestimonialSectionOne'),
-            CallToActionThree: () => import('@/components/CallToActionThree'),
+            FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
+            ContactSectionTwo: () => import('@/components/ContactSectionTwo'),
             TheFooter: () => import('@/components/TheFooter'),
         },
 
@@ -47,7 +40,7 @@
                         to: "/"
                     },
                     {
-                        text: 'About',
+                        text: 'Service',
                         active: true
                     }
                 ]
@@ -56,7 +49,7 @@
 
         head() {
             return {
-                title: 'About'
+                title: 'Service'
             }
         },
     };

@@ -39,7 +39,7 @@
                         <!-- Section Title Two End -->
 
                         <p>We’re boldly committed, and refreshingly easy-going. Our passion for helping others is matched by our dedication to a customer-first approach.</p>
-                        <n-link to="/about" class="btn btn-primary btn-hover-secondary mt-4">About Us</n-link>
+                        <n-link to="/about" class="btn btn-primary btn-hover-secondary mt-4">About</n-link>
                     </div>
                 </div>
                 <!-- About Start -->

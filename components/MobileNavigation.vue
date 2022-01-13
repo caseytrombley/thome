@@ -21,7 +21,10 @@
                   <n-link to="/">Home</n-link>
                 </li>
                 <li>
-                    <n-link to="/about">About Us</n-link>
+                    <n-link to="/about">About</n-link>
+                </li>
+                <li>
+                    <n-link to="/capabilities" class="link">Capabilities</n-link>
                 </li>
 <!--                <li>-->
 <!--                    <n-link to="/service">Services</n-link>-->

@@ -2,7 +2,10 @@
     <nav class="site-main-menu">
         <ul>
             <li>
-                <n-link to="/about" class="link">About Us</n-link>
+                <n-link to="/about" class="link">About</n-link>
+            </li>
+            <li>
+              <n-link to="/capabilities" class="link">Capabilities</n-link>
             </li>
 <!--            <li>-->
 <!--                <n-link to="/service" class="link">Services</n-link>-->

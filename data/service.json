@@ -1,38 +1,20 @@
 [
     {
         "id": 1,
-        "title": "Branding",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-        "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+        "title": "Transportation",
+        "text": "We specialize in non-Emergency medical transportation, and also provide leisure and social engagement transportation.",
+        "iconSrc": "/images/svg/linea/linea-basic-geolocalize-05.svg"
     },
     {
         "id": 2,
-        "title": "UX Design",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-        "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg"
+        "title": "Delivery",
+        "text": "We offer small package and parcel delivery, and we also transport medical supplies.",
+        "iconSrc": "/images/svg/linea/linea-basic-mail.svg"
     },
     {
         "id": 3,
-        "title": "Strategy",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-        "iconSrc": "/images/svg/linea/linea-basic-picture.svg"
-    },
-    {
-        "id": 4,
-        "title": "E-commerce",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-        "iconSrc": "/images/svg/linea/linea-ecommerce-cart-plus.svg"
-    },
-    {
-        "id": 5,
-        "title": "Marketing",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-        "iconSrc": "/images/svg/linea/linea-basic-display.svg"
-    },
-    {
-        "id": 6,
-        "title": "Development",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-        "iconSrc": "/images/svg/linea/linea-basic-gear.svg"
+        "title": "MBE Certified",
+        "text": "We are a minority-owned business committed to high-quality service.",
+        "iconSrc": "/images/svg/mbe-cert.svg"
     }
 ]
