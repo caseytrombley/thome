@@ -15,7 +15,7 @@
                         <div class="footer-widget-content">
                             <div class="content">
 <!--                                <p><a href="tel:(+1)978-620-7091">{{ footerData.footerAboutWidget.telephone }}</a></p>-->
-                                <p><a href="mailto:thomelegacy@icloud.com">{{ footerData.footerAboutWidget.email }}</a></p>
+                                <p><a href="mailto:info@thomelegacy.com">{{ footerData.footerAboutWidget.email }}</a></p>
                             </div>
 <!--                            <div class="footer-social-inline">-->
 <!--                                <a :href="footerData.footerAboutWidget.twitterUrl" target="_blank">-->

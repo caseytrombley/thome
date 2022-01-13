@@ -44,7 +44,7 @@
                             <div class="info">
                                 <h4 class="title"> Email Us</h4>
                                 <span class="info-text">
-                                    <a href="mailto:thomelegacy@icloud.com">thomelegacy@icloud.com</a>
+                                    <a href="mailto:info@thomelegacy.com">info@thomelegacy.com</a>
                                 </span>
                             </div>
                         </div>
