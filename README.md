@@ -1,4 +1,4 @@
-# thome legacy
+# Thome Legacy Enterprises
 
 ## Build Setup
 
