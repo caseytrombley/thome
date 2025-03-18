@@ -1,4 +1,4 @@
-# exomac-vue
+# thome legacy
 
 ## Build Setup
 
