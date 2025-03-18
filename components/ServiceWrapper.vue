@@ -11,7 +11,6 @@
           <div class="section-statement">
             <p>
               <strong>Thome Legacy Enterprise LLC</strong> is a transportation company that specializes in non-Emergency medical transportation service, Leisure transportation and social engagement transportations.
-              We also offer small package and parcel delivery and transport medical supplies.
             </p>
             <p>
               During the pandemic we have also be called upon to assist in Covid testing by multiple companies who worked to ensure safety in their workplaces.

@@ -7,12 +7,6 @@
     },
     {
         "id": 2,
-        "title": "Delivery",
-        "text": "We offer small package and parcel delivery, and we also transport medical supplies.",
-        "iconSrc": "/images/svg/linea/linea-basic-mail.svg"
-    },
-    {
-        "id": 3,
         "title": "MBE Certified",
         "text": "We are a minority-owned business committed to high-quality service.",
         "iconSrc": "/images/svg/mbe-cert.svg"

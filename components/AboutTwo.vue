@@ -21,9 +21,6 @@
                               Established in 2017, Thome Legacy Enterprises LLC (TLE) is a provider of Non-Emergency Medical Transportation Services.
                               We provide a dependable option for transportation to ensure the continued progress of the patient’s care plan or maintenance of their wellness.
                             </p>
-                            <p>
-                              We also offer transportation for leisure or social engagements. We also offer small package and parcel delivery.
-                            </p>
 
                           </div>
                         </div>
